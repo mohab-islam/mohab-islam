@@ -86,6 +86,12 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 </tr>
 </table>
 
+## 🚀 Live product
+
+**I built [Ronin](https://ronin-ai.tech/)**, a content engine for local service businesses and agencies. It groups what people actually ask about a service into themes, turns each theme into a brief, a blog post and per-channel social variants, publishes to WordPress, Facebook and Instagram only after human approval, and uses Search Console data to decide what to write next. Multi-tenant, with each client's data isolated at the database level.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `LLMs (Claude, Gemini)` `Background jobs` `OAuth integrations`
+
 ## 💼 Experience
 
 | When | Role | What I did |
