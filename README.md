@@ -35,13 +35,11 @@ Currently **AI Automation Specialist**, building LLM and Python pipelines for SE
 
 ## 🎯 Where I fit
 
-| Role | Evidence |
+| Focus | Evidence |
 |---|---|
-| **LLM / AI application engineer** | Multi-step agent pipelines with structured JSON outputs and web-grounded generation ([ScholarPilot](https://github.com/mohab-islam/scholarpilot)); LLM automation in daily use at Fantastic Services; LLM-based maintenance instructions at RICO |
-| **Machine learning engineer** | End-to-end ownership from data cleaning and modelling (scikit-learn, Pandas) to an API and a deployment; DEPI ML programme with a deployable capstone per phase |
-| **Computer vision / edge AI** | YOLOv8 waste classification on a Raspberry Pi, backed by a REST/MQTT backend and a Flutter app ([WasteMaster](https://github.com/mohab-islam/WasteMaster)) |
-| **MLOps / platform** | Dockerised services, CI with automated tests, Google Cloud VM with IAM, budgets, backups and an always-on background worker |
-| **Data / analytics engineering** | Python ETL and reporting automation, SQL and MongoDB, REST APIs, monitoring pipelines |
+| **LLM and AI application engineering** (my core) | Multi-step agent pipelines with structured JSON outputs, RAG and web-grounded generation ([ScholarPilot](https://github.com/mohab-islam/scholarpilot)); LLM automation in daily use at Fantastic Services; LLM-based maintenance instructions at RICO |
+| **Machine learning engineering, data to production** | Data cleaning and modelling (scikit-learn, Pandas, PyTorch), Python ETL and reporting pipelines, then Dockerised services, CI with tests, Google Cloud deployment, monitoring and experiment tracking; DEPI ML programme with a deployable capstone per phase |
+| **Computer vision and edge AI** | YOLOv8 waste classification on a Raspberry Pi, backed by a REST/MQTT backend and a Flutter app ([WasteMaster](https://github.com/mohab-islam/WasteMaster)) |
 
 ## 🧭 Featured projects
 
@@ -119,11 +117,12 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 
 | | |
 |---|---|
-| **LLM engineering** | Prompt design and structured (JSON) extraction · web-grounded, retrieval-augmented generation pipelines (fetch → clean → ground → generate) · multi-agent orchestration · Gemini on Vertex AI · integrating LLMs into production systems |
+| **LLM engineering** | Prompt design and structured (JSON) extraction · retrieval-augmented generation (embeddings, vector stores such as FAISS and pgvector; web-grounded pipelines) · multi-agent orchestration · LLM evaluation · parameter-efficient fine-tuning (LoRA) · Gemini on Vertex AI · integrating LLMs into production systems |
 | **Machine learning** | Supervised learning with scikit-learn · data pre-processing and cleaning · exploratory analysis (NumPy, Pandas) · linear algebra foundations |
-| **Deep learning and vision** | Object detection with YOLOv8 (Ultralytics, PyTorch-based) · OpenCV inference pipelines · deep-learning module of the DEPI ML programme |
-| **MLOps and deployment** | Docker · GitHub Actions CI · pytest · FastAPI services · Google Cloud (Compute Engine, Vertex AI, IAM, budgets) · HTTPS reverse proxy (Caddy) · continuous monitoring pipelines |
+| **Deep learning and vision** | PyTorch model training · object detection with YOLOv8 (Ultralytics) · OpenCV inference pipelines · deep-learning module of the DEPI ML programme |
+| **MLOps and deployment** | Docker · GitHub Actions CI · pytest · experiment tracking (MLflow, Weights & Biases) · model export and serving (ONNX) · FastAPI services · Google Cloud (Compute Engine, Vertex AI, IAM, budgets) · HTTPS reverse proxy (Caddy) · continuous monitoring pipelines |
 | **Data engineering** | SQL · SQLite · MongoDB · Python ETL and reporting pipelines · REST APIs · MQTT |
 | **Languages** | Python · C++ · SQL · TypeScript / JavaScript · Dart |
 | **Edge and IoT** | Raspberry Pi · Arduino |
-| **Exploring next** | Retrieval-augmented generation with embeddings and vector stores (FAISS, pgvector) · PyTorch model training · experiment tracking (MLflow, Weights & Biases) · model export and serving (ONNX) · LLM evaluation · parameter-efficient fine-tuning (LoRA) |
+
+<sub>Part of my professional work, including pieces of the LLM, RAG and MLOps stack above, is under NDA, so the public repositories show only a subset.</sub>
