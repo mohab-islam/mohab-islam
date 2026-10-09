@@ -6,7 +6,7 @@
 
 **I take machine-learning ideas all the way to production.** From training models to wiring LLMs into real products: data pipelines, APIs, cloud deployment, and the dashboards people actually use.
 
-📍 Cairo, Egypt &nbsp;·&nbsp; 🎓 Nile University, BSc Computer Science (Highest Honors) &nbsp;·&nbsp; 🌍 Exchange at UAS Upper Austria
+📍 Cairo, Egypt &nbsp;·&nbsp; 🎓 Nile University, BSc Computer Science (Highest Honors) &nbsp;·&nbsp; 🌍 Exchange at FH Upper Austria
 
 <br>
 
@@ -29,9 +29,9 @@
 
 ## 🧑‍💻 About
 
-Computer Science graduate with **Highest Honors (CGPA 3.86)**, specialising in **machine learning, AI and data science**. My experience spans the whole data-to-deployment path: building and training ML models, then integrating **large language models** into production-ready systems. During an exchange semester at the **University of Applied Sciences Upper Austria** I worked on research-focused projects and, as an intern, on an **LLM-assisted maintenance system** for an Austrian company.
+Computer Science graduate with **Highest Honors (CGPA 3.86)**, specialising in **machine learning, AI and data science**. My experience spans the whole data-to-deployment path: building and training ML models, then integrating **large language models** into production-ready systems. During an exchange semester at **FH Upper Austria** I worked on research-focused projects and, as an intern, on an **LLM-assisted maintenance system** for an Austrian company.
 
-Currently: **AI Automation Specialist** (LLM + Python pipelines for SEO analytics) and **Machine Learning intern** in the DEPI programme.
+Currently: **AI Automation Specialist**, building LLM and Python pipelines for SEO analytics. Completed the **DEPI Machine Learning programme** (Nov 2025 – Jul 2026).
 
 ## 🧭 Featured projects
 
@@ -83,7 +83,7 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 | When | Role | What I did |
 |---|---|---|
 | **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Built internal web tools and dashboards (TypeScript, full-stack) from SEO workflows; automated reporting, data extraction and site audits with Python pipelines and LLMs; deployed cloud workflows for continuous monitoring and keyword tracking. |
-| **Nov 2025 – now** | **Machine Learning Intern**, Digital Egypt Pioneers Initiative (DEPI) | Full-stack ML curriculum: Python, data analysis, machine learning, deep learning and MLOps, with a deployable capstone per phase. |
+| **Nov 2025 – Jul 2026** | **Machine Learning Intern**, Digital Egypt Pioneers Initiative (DEPI) | Completed the full-stack ML curriculum: Python, data analysis, machine learning, deep learning and MLOps, with a deployable capstone per phase. |
 | **Dec 2024 – Feb 2025** | **Software Engineering Intern**, RICO Elastomere Projecting GmbH (Austria) | Joint project with AIST on an AI-driven system for maintenance workflows: database mapping for the UI and LLM-based generation of maintenance instructions. |
 | **Sep – Oct 2024** | **MEAN Stack Trainee**, Information Technology Institute (ITI) | REST APIs with Node.js/Express, Angular interfaces, MongoDB. |
 | **Jun 2023 – Sep 2024** | **Junior SEO**, Fantastic Services | Link-building strategy that lifted organic rankings by **25%**; on-page optimisation and rank reporting. |
@@ -96,27 +96,23 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 - 🥈 **2nd place**, NASA International Space Apps Challenge (regional qualifiers)
 - 🏅 **5th place**, International Science and Engineering Fair (regional qualifiers)
 - 🎖️ Nile University **Achievements Day** and **Junior Teaching Assistants** honorings
-- 📜 IELTS **Band 7** · Introduction to Data and Data Science · Technical SEO Certification
+- 📜 IELTS **Band 7**
 - 🗣️ Arabic (native) · English (full professional)
 
 ## 🎓 Education
 
 - **Nile University**, BSc Computer Science, 2021 – 2026, **Highest Honors (CGPA 3.86)**
-- **University of Applied Sciences Upper Austria**, exchange semester (Media Technology and Design), Sep 2024 – Feb 2025
+- **FH Upper Austria**, exchange semester (Media Technology and Design), Sep 2024 – Feb 2025
 - Red Sea STEM High School, 2018 – 2021
 
-## 🧰 Toolbox
+## 🧰 Skills
 
 | | |
 |---|---|
-| **AI / ML** | scikit-learn · NumPy · Pandas · YOLOv8 · OpenCV · Gemini on Vertex AI · LLM integration and multi-agent prompting with search grounding |
+| **LLM engineering** | Prompt design and structured (JSON) extraction · web-grounded, retrieval-augmented generation pipelines (fetch → clean → ground → generate) · multi-agent orchestration · Gemini on Vertex AI · integrating LLMs into production systems |
+| **Machine learning** | Supervised learning with scikit-learn · data pre-processing and cleaning · exploratory analysis (NumPy, Pandas) · linear algebra foundations |
+| **Deep learning and vision** | Object detection with YOLOv8 (Ultralytics, PyTorch-based) · OpenCV inference pipelines · deep-learning module of the DEPI ML programme |
+| **MLOps and deployment** | Docker · GitHub Actions CI · pytest · FastAPI services · Google Cloud (Compute Engine, Vertex AI, IAM, budgets) · HTTPS reverse proxy (Caddy) · continuous monitoring pipelines |
+| **Data engineering** | SQL · SQLite · MongoDB · Python ETL and reporting pipelines · REST APIs · MQTT |
 | **Languages** | Python · C++ · SQL · TypeScript / JavaScript · Dart |
-| **Backend** | FastAPI · Node.js (Express) · REST · SQLite · MongoDB · MQTT |
-| **Cloud and DevOps** | Google Cloud (Compute Engine, Vertex AI, Gmail API, IAM) · Docker · Caddy · GitHub Actions |
-| **Strengths** | Data analysis · data cleaning · linear algebra · turning research into deployable systems |
-
-## 🔭 What I care about
-
-- **From model to product.** A good model is the easy half; reliability, honest failure modes and a UI people can use are the rest.
-- **Boring security.** No secrets in repos, least-privilege cloud identities, confirmation before any irreversible action.
-- **Writing it down.** Every project here has a README you can follow from a clean clone.
+| **Edge and IoT** | Raspberry Pi · Arduino |
