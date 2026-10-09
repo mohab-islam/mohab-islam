@@ -1,30 +1,37 @@
-<!--
-  Profile README for github.com/mohab-islam. Everything below is limited to what is verifiable from the public repos.
-  TODO (needs the CV / LinkedIn): education, experience, certifications, publications, LinkedIn link.
--->
-
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohab Islam, AI Engineer" width="100%">
+<img src="assets/banner.svg" alt="Mohab Islam: Computer Science graduate, Machine Learning, NLP and LLM applications" width="100%">
 
 <br>
 
-**I build AI systems that leave the notebook:** a camera that sorts waste in real time, agents that read scholarship pages so I don't have to, and the plumbing in between (APIs, data, cloud) that makes them dependable.
+**I take machine-learning ideas all the way to production.** From training models to wiring LLMs into real products: data pipelines, APIs, cloud deployment, and the dashboards people actually use.
+
+📍 Cairo, Egypt &nbsp;·&nbsp; 🎓 Nile University, BSc Computer Science (Highest Honors) &nbsp;·&nbsp; 🌍 Exchange at UAS Upper Austria
 
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohabislamofficial-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohabislamofficial/)
+
 </div>
 
 ---
+
+## 🧑‍💻 About
+
+Computer Science graduate with **Highest Honors (CGPA 3.86)**, specialising in **machine learning, AI and data science**. My experience spans the whole data-to-deployment path: building and training ML models, then integrating **large language models** into production-ready systems. During an exchange semester at the **University of Applied Sciences Upper Austria** I worked on research-focused projects and, as an intern, on an **LLM-assisted maintenance system** for an Austrian company.
+
+Currently: **AI Automation Specialist** (LLM + Python pipelines for SEO analytics) and **Machine Learning intern** in the DEPI programme.
 
 ## 🧭 Featured projects
 
@@ -71,24 +78,45 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 </tr>
 </table>
 
+## 💼 Experience
+
+| When | Role | What I did |
+|---|---|---|
+| **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Built internal web tools and dashboards (TypeScript, full-stack) from SEO workflows; automated reporting, data extraction and site audits with Python pipelines and LLMs; deployed cloud workflows for continuous monitoring and keyword tracking. |
+| **Nov 2025 – now** | **Machine Learning Intern**, Digital Egypt Pioneers Initiative (DEPI) | Full-stack ML curriculum: Python, data analysis, machine learning, deep learning and MLOps, with a deployable capstone per phase. |
+| **Dec 2024 – Feb 2025** | **Software Engineering Intern**, RICO Elastomere Projecting GmbH (Austria) | Joint project with AIST on an AI-driven system for maintenance workflows: database mapping for the UI and LLM-based generation of maintenance instructions. |
+| **Sep – Oct 2024** | **MEAN Stack Trainee**, Information Technology Institute (ITI) | REST APIs with Node.js/Express, Angular interfaces, MongoDB. |
+| **Jun 2023 – Sep 2024** | **Junior SEO**, Fantastic Services | Link-building strategy that lifted organic rankings by **25%**; on-page optimisation and rank reporting. |
+| **Jun 2023 – Jan 2024** | **Programming Instructor**, Algorithmics | 30+ Python and Scratch sessions for 80+ students aged 6–17, with a **95%** parent satisfaction rate. |
+| **Oct 2022 – Jun 2023** | **Junior Teaching Assistant**, Nile University | Supported intro programming, computer systems and intermediate programming courses; contributed to a **20%** improvement in student performance. |
+
+## 🏆 Recognition and credentials
+
+- 🥇 **1st place**, 15th Undergraduate Research Forum
+- 🥈 **2nd place**, NASA International Space Apps Challenge (regional qualifiers)
+- 🏅 **5th place**, International Science and Engineering Fair (regional qualifiers)
+- 🎖️ Nile University **Achievements Day** and **Junior Teaching Assistants** honorings
+- 📜 IELTS **Band 7** · Introduction to Data and Data Science · Technical SEO Certification
+- 🗣️ Arabic (native) · English (full professional)
+
+## 🎓 Education
+
+- **Nile University**, BSc Computer Science, 2021 – 2026, **Highest Honors (CGPA 3.86)**
+- **University of Applied Sciences Upper Austria**, exchange semester (Media Technology and Design), Sep 2024 – Feb 2025
+- Red Sea STEM High School, 2018 – 2021
+
 ## 🧰 Toolbox
 
 | | |
 |---|---|
-| **AI / ML** | YOLOv8 (Ultralytics) · OpenCV · NumPy · Pandas · Gemini on Vertex AI · multi-agent prompting with search grounding |
-| **Backend** | Python (FastAPI) · Node.js (Express) · REST · SQLite · MongoDB · MQTT |
-| **Apps** | Flutter / Dart · vanilla JS · Chrome extensions (Manifest V3) |
-| **Cloud and DevOps** | Google Cloud (Compute Engine, Vertex AI, Gmail API, IAM, budgets) · Docker · Caddy · GitHub Actions |
-| **Hardware** | Raspberry Pi (GPIO, camera) · Arduino |
+| **AI / ML** | scikit-learn · NumPy · Pandas · YOLOv8 · OpenCV · Gemini on Vertex AI · LLM integration and multi-agent prompting with search grounding |
+| **Languages** | Python · C++ · SQL · TypeScript / JavaScript · Dart |
+| **Backend** | FastAPI · Node.js (Express) · REST · SQLite · MongoDB · MQTT |
+| **Cloud and DevOps** | Google Cloud (Compute Engine, Vertex AI, Gmail API, IAM) · Docker · Caddy · GitHub Actions |
+| **Strengths** | Data analysis · data cleaning · linear algebra · turning research into deployable systems |
 
 ## 🔭 What I care about
 
 - **From model to product.** A good model is the easy half; reliability, honest failure modes and a UI people can use are the rest.
 - **Boring security.** No secrets in repos, least-privilege cloud identities, confirmation before any irreversible action.
 - **Writing it down.** Every project here has a README you can follow from a clean clone.
-
-## 📫 Find me
-
-[![GitHub](https://img.shields.io/badge/GitHub-mohab--islam-181717?style=flat-square&logo=github)](https://github.com/mohab-islam)
-
-<!-- TODO(LinkedIn): add the LinkedIn badge once the URL is confirmed. -->
