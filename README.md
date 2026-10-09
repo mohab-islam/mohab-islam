@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohab Islam: Computer Science graduate, Machine Learning, NLP and LLM applications" width="100%">
+<img src="assets/banner.svg" alt="Mohab Islam: AI and ML Engineer, LLM applications, NLP, computer vision, MLOps" width="100%">
 
 <br>
 
-**I take machine-learning ideas all the way to production.** From training models to wiring LLMs into real products: data pipelines, APIs, cloud deployment, and the dashboards people actually use.
+**I build ML and LLM systems and ship them.** Data and models at one end; APIs, cloud deployment, monitoring and the interfaces people actually use at the other.
 
 📍 Cairo, Egypt &nbsp;·&nbsp; 🎓 Nile University, BSc Computer Science (Highest Honors) &nbsp;·&nbsp; 🌍 Exchange at FH Upper Austria
 
@@ -29,9 +29,19 @@
 
 ## 🧑‍💻 About
 
-Computer Science graduate with **Highest Honors (CGPA 3.86)**, specialising in **machine learning, AI and data science**. My experience spans the whole data-to-deployment path: building and training ML models, then integrating **large language models** into production-ready systems. During an exchange semester at **FH Upper Austria** I worked on research-focused projects and, as an intern, on an **LLM-assisted maintenance system** for an Austrian company.
+AI and ML engineer with a Computer Science degree (**Highest Honors, CGPA 3.86**) and a data-to-deployment track record: cleaning and modelling data, training and evaluating models, then putting **machine learning and LLMs** behind APIs, pipelines and dashboards that run in production. At FH Upper Austria I worked on research-focused projects and, as an intern, on an **LLM-assisted maintenance system** for an Austrian company.
 
-Currently: **AI Automation Specialist**, building LLM and Python pipelines for SEO analytics. Completed the **DEPI Machine Learning programme** (Nov 2025 – Jul 2026).
+Currently **AI Automation Specialist**, building LLM and Python pipelines for SEO analytics. Completed the **DEPI Machine Learning programme** (Nov 2025 – Jul 2026), covering Python, data analysis, machine learning, deep learning and MLOps.
+
+## 🎯 Where I fit
+
+| Role | Evidence |
+|---|---|
+| **LLM / AI application engineer** | Multi-step agent pipelines with structured JSON outputs and web-grounded generation ([ScholarPilot](https://github.com/mohab-islam/scholarpilot)); LLM automation in daily use at Fantastic Services; LLM-based maintenance instructions at RICO |
+| **Machine learning engineer** | End-to-end ownership from data cleaning and modelling (scikit-learn, Pandas) to an API and a deployment; DEPI ML programme with a deployable capstone per phase |
+| **Computer vision / edge AI** | YOLOv8 waste classification on a Raspberry Pi, backed by a REST/MQTT backend and a Flutter app ([WasteMaster](https://github.com/mohab-islam/WasteMaster)) |
+| **MLOps / platform** | Dockerised services, CI with automated tests, Google Cloud VM with IAM, budgets, backups and an always-on background worker |
+| **Data / analytics engineering** | Python ETL and reporting automation, SQL and MongoDB, REST APIs, monitoring pipelines |
 
 ## 🧭 Featured projects
 
@@ -82,9 +92,9 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 
 | When | Role | What I did |
 |---|---|---|
-| **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Built internal web tools and dashboards (TypeScript, full-stack) from SEO workflows; automated reporting, data extraction and site audits with Python pipelines and LLMs; deployed cloud workflows for continuous monitoring and keyword tracking. |
+| **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Own the AI tooling for SEO operations: internal web tools and dashboards (TypeScript, full-stack), Python + LLM pipelines for reporting, data extraction and site audits, and cloud workflows for continuous monitoring and keyword tracking. |
 | **Nov 2025 – Jul 2026** | **Machine Learning Intern**, Digital Egypt Pioneers Initiative (DEPI) | Completed the full-stack ML curriculum: Python, data analysis, machine learning, deep learning and MLOps, with a deployable capstone per phase. |
-| **Dec 2024 – Feb 2025** | **Software Engineering Intern**, RICO Elastomere Projecting GmbH (Austria) | Joint project with AIST on an AI-driven system for maintenance workflows: database mapping for the UI and LLM-based generation of maintenance instructions. |
+| **Dec 2024 – Feb 2025** | **Software Engineering Intern**, RICO Elastomere Projecting GmbH (Austria) | Contributed to an AI-driven maintenance-workflow system (joint project with AIST): mapped technical documentation into the database and UI layer and worked on LLM-based generation of maintenance instructions. |
 | **Sep – Oct 2024** | **MEAN Stack Trainee**, Information Technology Institute (ITI) | REST APIs with Node.js/Express, Angular interfaces, MongoDB. |
 | **Jun 2023 – Sep 2024** | **Junior SEO**, Fantastic Services | Link-building strategy that lifted organic rankings by **25%**; on-page optimisation and rank reporting. |
 | **Jun 2023 – Jan 2024** | **Programming Instructor**, Algorithmics | 30+ Python and Scratch sessions for 80+ students aged 6–17, with a **95%** parent satisfaction rate. |
@@ -116,3 +126,4 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 | **Data engineering** | SQL · SQLite · MongoDB · Python ETL and reporting pipelines · REST APIs · MQTT |
 | **Languages** | Python · C++ · SQL · TypeScript / JavaScript · Dart |
 | **Edge and IoT** | Raspberry Pi · Arduino |
+| **Exploring next** | Retrieval-augmented generation with embeddings and vector stores (FAISS, pgvector) · PyTorch model training · experiment tracking (MLflow, Weights & Biases) · model export and serving (ONNX) · LLM evaluation · parameter-efficient fine-tuning (LoRA) |
