@@ -37,8 +37,8 @@ Currently **AI Automation Specialist**, building LLM and Python pipelines for SE
 
 | Focus | Evidence |
 |---|---|
-| **LLM and AI application engineering** (my core) | Multi-step agent pipelines with structured JSON outputs, RAG and web-grounded generation ([ScholarPilot](https://github.com/mohab-islam/scholarpilot)); LLM automation in daily use at Fantastic Services; LLM-based maintenance instructions at RICO |
-| **Machine learning engineering, data to production** | Data cleaning and modelling (scikit-learn, Pandas, PyTorch), Python ETL and reporting pipelines, then Dockerised services, CI with tests, Google Cloud deployment, monitoring and experiment tracking; DEPI ML programme with a deployable capstone per phase |
+| **LLM and AI application engineering** (my core) | Multi-step agent pipelines with structured JSON outputs, RAG and web-grounded generation ([ScholarPilot](https://github.com/mohab-islam/scholarpilot)); API and open-weight LLMs; LLM automation in daily use at Fantastic Services; LLM-based maintenance instructions at RICO |
+| **Machine learning engineering, data to production** | Data pipelines and custom model training (scikit-learn, PyTorch), evaluated with proper metrics (precision/recall/F1, mAP, retrieval recall@k), then Dockerised services, CI with tests, Google Cloud deployment, monitoring and experiment tracking; DEPI ML programme with a deployable capstone per phase |
 | **Computer vision and edge AI** | YOLOv8 waste classification on a Raspberry Pi, backed by a REST/MQTT backend and a Flutter app ([WasteMaster](https://github.com/mohab-islam/WasteMaster)) |
 
 ## 🧭 Featured projects
@@ -90,7 +90,7 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 
 | When | Role | What I did |
 |---|---|---|
-| **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Own the AI tooling for SEO operations: internal web tools and dashboards (TypeScript, full-stack), Python + LLM pipelines for reporting, data extraction and site audits, and cloud workflows for continuous monitoring and keyword tracking. |
+| **Feb 2026 – now** | **AI Automation Specialist**, Fantastic Services (London area) | Own the AI and data-pipeline tooling for SEO operations: end-to-end Python + LLM pipelines (data extraction → structured content and analysis → automated reporting and site audits), cloud workflows for continuous monitoring and keyword tracking, and the TypeScript dashboards that surface the results. |
 | **Nov 2025 – Jul 2026** | **Machine Learning Intern**, Digital Egypt Pioneers Initiative (DEPI) | Completed the full-stack ML curriculum: Python, data analysis, machine learning, deep learning and MLOps, with a deployable capstone per phase. |
 | **Dec 2024 – Feb 2025** | **Software Engineering Intern**, RICO Elastomere Projecting GmbH (Austria) | Contributed to an AI-driven maintenance-workflow system (joint project with AIST): mapped technical documentation into the database and UI layer and worked on LLM-based generation of maintenance instructions. |
 | **Sep – Oct 2024** | **MEAN Stack Trainee**, Information Technology Institute (ITI) | REST APIs with Node.js/Express, Angular interfaces, MongoDB. |
@@ -117,9 +117,10 @@ Highlights: full hardware-to-app pipeline · single-use token claims · end-to-e
 
 | | |
 |---|---|
-| **LLM engineering** | Prompt design and structured (JSON) extraction · retrieval-augmented generation (embeddings, vector stores such as FAISS and pgvector; web-grounded pipelines) · multi-agent orchestration · LLM evaluation · parameter-efficient fine-tuning (LoRA) · Gemini on Vertex AI · integrating LLMs into production systems |
-| **Machine learning** | Supervised learning with scikit-learn · data pre-processing and cleaning · exploratory analysis (NumPy, Pandas) · linear algebra foundations |
-| **Deep learning and vision** | PyTorch model training · object detection with YOLOv8 (Ultralytics) · OpenCV inference pipelines · deep-learning module of the DEPI ML programme |
+| **LLM engineering** | Prompt design and structured (JSON) extraction · retrieval-augmented generation (embeddings, vector stores such as FAISS and pgvector, web-grounded pipelines) · multi-agent orchestration · open-weight LLMs (Llama, Mistral) with Hugging Face Transformers, Ollama and vLLM · LoRA / QLoRA fine-tuning · LLM evaluation · Gemini on Vertex AI · integrating LLMs into production systems |
+| **Machine learning** | Supervised learning with scikit-learn · custom model training in PyTorch (datasets and dataloaders, loss functions, training loops) · data pre-processing, cleaning and feature preparation (NumPy, Pandas) · linear algebra foundations |
+| **Evaluation and metrics** | Train/validation/test discipline and error analysis · precision, recall, F1, ROC-AUC · mAP for object detection · exact match and retrieval metrics (recall@k, MRR) for RAG · regression and robustness checks in CI |
+| **Deep learning and vision** | PyTorch · object detection with YOLOv8 (Ultralytics) · OpenCV inference pipelines · deep-learning module of the DEPI ML programme |
 | **MLOps and deployment** | Docker · GitHub Actions CI · pytest · experiment tracking (MLflow, Weights & Biases) · model export and serving (ONNX) · FastAPI services · Google Cloud (Compute Engine, Vertex AI, IAM, budgets) · HTTPS reverse proxy (Caddy) · continuous monitoring pipelines |
 | **Data engineering** | SQL · SQLite · MongoDB · Python ETL and reporting pipelines · REST APIs · MQTT |
 | **Languages** | Python · C++ · SQL · TypeScript / JavaScript · Dart |
